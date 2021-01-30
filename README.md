@@ -7,3 +7,11 @@ Header
 ![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/LaMejor.png)
 
 ![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/LaMejor2.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Paralax.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/precios.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/testimoniales.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Footer.png)
