@@ -30,3 +30,14 @@ Calendario
 
 Invitados
 ![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Invitados.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/InvitadosClic.png)
+
+Reservaciones
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Reservaciones.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Reservaciones2.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Reservaciones3.png)
+
+![ScreenShot](https://raw.github.com/Gamas-G/paginaWeb_gdlwebcamp/master/Screen/Reservaciones4.png)
